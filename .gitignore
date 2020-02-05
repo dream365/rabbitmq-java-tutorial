@@ -164,4 +164,8 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+gradlew
+gradlew.bat
+settings.gradle
+.gradle/**/**
 # End of https://www.gitignore.io/api/java,macos,gradle,intellij
